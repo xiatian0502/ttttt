@@ -1,8 +1,8 @@
 name: itvlist
 
 on:
-  schedule:
-    - cron: '0 9,21 * * *'
+  workflow_dispatch:
+    # type here
   push:
     branches:
       - main
