@@ -2,6 +2,6 @@
 
 
 使用方法：
-   https://ghproxy.net/https://raw.githubusercontent.com/xiatian0502/tv/main/itvlist.txt
-      https://raw.githubusercontent.com/xiatian0502/tv/main/itvlist.txt
+   https://ghproxy.net/https://raw.githubusercontent.com/xiatian0502/ttttt/main/itvlist.txt
+      https://raw.githubusercontent.com/xiatian0502/ttttt/main/itvlist.txt
   
