@@ -44,5 +44,3 @@ jobs:
           git commit *.m3u -m "Add generated file"
           #git pull --rebase
           git push -f
-          on:
-          workflow_dispatch:
